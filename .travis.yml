@@ -1,0 +1,20 @@
+language: kotlin
+
+jdk:
+  - oraclejdk8
+
+script:
+  - ./gradlew assemble testClasses
+
+branches:
+  except:
+    - gh-pages
+
+notifications:
+  email: false
+
+sudo: false
+
+cache:
+  directories:
+    - $HOME/.gradle
