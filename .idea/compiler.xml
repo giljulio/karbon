@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="karbon-karbon_main" target="1.8" />
+      <module name="karbon-karbon_test" target="1.8" />
+      <module name="karbon1_main" target="1.8" />
+      <module name="karbon1_test" target="1.8" />
+      <module name="karbon_main" target="1.8" />
+      <module name="karbon_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

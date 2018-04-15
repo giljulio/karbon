@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon.iml" group="karbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon_main.iml" group="karbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon/karbon-karbon_test.iml" group="karbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon_main.iml" group="karbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/karbon_test.iml" group="karbon" />
+    </modules>
+  </component>
+</project>
