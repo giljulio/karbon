@@ -14,6 +14,7 @@ class KarbonTests {
         assertEquals(user.pets, emptyList())
         assertEquals(user.location, Continent.EUROPE)
         assertEquals(user.tags, emptyMap())
+        assertEquals(user.website, "github.com")
     }
 
     data class User(
@@ -22,7 +23,8 @@ class KarbonTests {
             val dob: Date,
             val pets: List<Pet>,
             val location: Continent,
-            val tags: Map<String, String>
+            val tags: Map<String, String>,
+            val website: String = "github.com"
     )
 
     enum class Continent {
